@@ -1,4 +1,4 @@
-[<img src="assets/header.png">](https://github.com/slavusr/imghide "Hide text inside an Image")
+[<img src="assets/header.png">](https://github.com/slavUsr/imghide "Hide text inside an Image")
 
 [IMGHide](imghide-gui.py) - Hide your messages inside an Image!
 
@@ -23,15 +23,15 @@ python3 imghide-gui.py
 
 ---
 
-[<img src="https://img.shields.io/github/followers/usrSlav?label=GitHub&logo=github&style=for-the-badge">](https://github.com/usrSlav) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/MajnuBhai007) <br />
+[<img src="https://img.shields.io/github/followers/slavUsr?label=GitHub&logo=github&style=for-the-badge">](https://github.com/usrSlav) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:slavUser@protonmail.com) <br />
 
-[<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:majnu007@protonmail.com) &nbsp; [<img src="https://img.shields.io/badge/Visit-My%20Website-0dd3ff?style=for-the-badge">](https://Majnu007.github.io)
+[<img src="https://img.shields.io/badge/Visit-My%20Website-0e93b0?style=for-the-badge">](https://slavUsr.github.io) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/usrSlav)
 
 ---
 
 ## Credits:
-* CLI Original Version By [TechRaj156](https://www.youtube.com/c/TechRaj156?sub_confirmation=1)
-* GUI Versionn By [@Majnu007](https://github.com/Majnu007) 
+* CLI Original Version By [TechRaj156](https://www.youtube.com/c/TechRaj156?sub_confirmation=1 "Subscribe Him MayN!!!")
+* GUI Versionn By [@slavUsr](https://github.com/slavUsr "haha it's Me!") 
 * Original Script Was Inspired from this [Medium post](https://medium.com/better-programming/image-steganography-using-python-2250896e48b9)
 * Watch [explanation video](https://youtu.be/_KX8ORUA_98)
 
