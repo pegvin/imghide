@@ -1,53 +1,29 @@
-[<img src="https://raw.githubusercontent.com/Majnu007/IMGHide-GUI/main/assets/header.png">](https://github.com/Majnu007/IMGHide-GUI)
+[<img src="assets/header.png">](https://github.com/slavusr/imghide "Hide text inside an Image")
 
-[<img src="https://img.shields.io/badge/LICENSE-Custom-blue?style=for-the-badge">](LICENSE) [<img src="https://img.shields.io/badge/Latest%20Version-1.3-orange?style=for-the-badge">](imghide-gui.py) [<img src="https://img.shields.io/github/repo-size/LinuxGuyy/IMGHide-GUI?label=Repository%20Size&style=for-the-badge">](https://github.com/Majnu007/IMGHide-GUI)
+[IMGHide](imghide-gui.py) - Hide your messages inside an Image!
 
-[IMGHide-GUI](imghide-gui.py) - Hide your messages inside an Image!
 
----
+[<img src="https://img.shields.io/badge/LICENSE-Custom-blue?style=for-the-badge">](LICENSE) [<img src="https://img.shields.io/badge/Latest%20Version-1.0-orange?style=for-the-badge">](imghide-gui.py) [<img src="https://img.shields.io/badge/Author-usrSlav-blue?style=for-the-badge">](https://github.com/usrSlav "I Wrote this GUI") [<img src="https://img.shields.io/badge/Built--On-Ubuntu-blue?style=for-the-badge&logo=ubuntu">](https://www.ubuntu.com "Built and Tested On Ubuntu")
 
-## Screenshots Of The Software
-Note Screenshots Are Old, they can differ from the Current version
-
-[<img src="https://i.ibb.co/8ckgBwc/imghide-gui-1.png">](https://github.com/Majnu007/IMGHide-GUI)
-[<img src="https://i.ibb.co/PC4mmH8/imghide-gui-2.png">](https://github.com/Majnu007/IMGHide-GUI)
-[<img src="https://i.ibb.co/Bj5Hb7c/imghide-gui-3.png">](https://github.com/Majnu007/IMGHide-GUI)
 
 ---
 
 ## Installation
-You can install the all requirements from **requirements.txt** by using pip.
 ```bash
-pip install -r requirements.txt
-```
-
-## Usage [Windows]
-**Make Sure You Have Installed Python 3.5+ Version, To Check Your Python Version on Your Command Prompt Give The Command ```python --version```**
-
-For CLI ( Command Line Interface ):
-```bash
-python imghide.py
-```
-For GUI ( Graphical User Interface:
-```bash
-python imghide-gui.py
+sudo apt-get install git python3 python3-pip
+git clone https://github.com/slavUsr/imghide.git
+cd imghide
+pip3 install -r requirements.txt
 ```
 
 ## Usage [Linux]
-**Make Sure You Have Installed Python 3.5+ Version, To Check Your Python Version on Your Command Prompt Give The Command ```python --version```**
-
-For CLI ( Command Line Interface ):
-```bash
-python3 imghide.py
-```
-For GUI ( Graphical User Interface:
 ```bash
 python3 imghide-gui.py
 ```
 
 ---
 
-[<img src="https://img.shields.io/github/followers/Majnu007?label=GitHub&logo=github&style=for-the-badge">](https://github.com/MajnuBhai007) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/MajnuBhai007) <br />
+[<img src="https://img.shields.io/github/followers/usrSlav?label=GitHub&logo=github&style=for-the-badge">](https://github.com/usrSlav) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/MajnuBhai007) <br />
 
 [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:majnu007@protonmail.com) &nbsp; [<img src="https://img.shields.io/badge/Visit-My%20Website-0dd3ff?style=for-the-badge">](https://Majnu007.github.io)
 
