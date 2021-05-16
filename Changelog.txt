@@ -1,0 +1,23 @@
+Version 1.0 Beta [ 12-Feb-2021 ]:
+	Nothing Changed
+
+Version 1.1 Beta [ 14-Feb-2021 ]:
+	+ Simple UI Changes
+	- Reduced Dependencies
+
+
+Version 1.2 Beta [ 16-Feb-2021 ]:
+	+ Simple UI Changes
+	+ Text in Password Entry Field is Hidden with '*'
+	+ Added A Functioning 'Info Bar' at Bottom Left
+	+ Fixed Some Minor Bugs
+	- Reduced Dependencies
+
+Version 1.3 Beta [ 22-Feb-2021 ]:
+	+ Simple UI Changes
+
+Version 1.0 Production [ 16-May-2021 ]:
+	+ UI Changes
+	+ Fixed bugs:
+		> App closes automatically when invalid input is provided
+	+  Reduced Dependencies
