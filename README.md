@@ -23,7 +23,7 @@ here pip3 was the pip for python version 3, it might defer if you are on windows
 
 ## Usage [Linux]
 ```bash
-python3 imghide-gui.py
+python3 imghide.py
 ```
 ---
 
