@@ -13,8 +13,13 @@
 sudo apt-get install git python3 python3-pip
 git clone https://github.com/slavUsr/imghide.git
 cd imghide
-pip3 install -r requirements.txt
+pip3 install -U -r requirements.txt
 ```
+
+here pip3 was the pip for python version 3, it might defer if you are on windows
+
+---
+
 
 ## Usage [Linux]
 ```bash
