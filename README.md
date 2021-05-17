@@ -35,7 +35,7 @@ python3 imghide-gui.py
 
 ---
 
-[<img src="https://img.shields.io/github/followers/slavUsr?label=GitHub&logo=github&style=for-the-badge">](https://github.com/usrSlav) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:slavUser@protonmail.com) <br />
+[<img src="https://img.shields.io/github/followers/slavUsr?label=GitHub&logo=github&style=for-the-badge">](https://github.com/slavUsr) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:slavUser@protonmail.com) <br />
 
 [<img src="https://img.shields.io/badge/Visit-My%20Website-0e93b0?style=for-the-badge">](https://slavUsr.github.io) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/usrSlav)
 
