@@ -1,10 +1,12 @@
 [<img src="assets/header.png">](https://github.com/slavUsr/imghide "Hide text inside an Image")
 
-[IMGHide](imghide-gui.py) - Hide your messages inside an Image!
+[IMGHide](imghide.py) - Hide your messages inside an Image!
 
 
-[<img src="https://img.shields.io/badge/LICENSE-Custom-blue?style=for-the-badge">](LICENSE) [<img src="https://img.shields.io/badge/Latest%20Version-1.0-orange?style=for-the-badge">](imghide.py) <br /> [<img src="https://img.shields.io/badge/Author-usrSlav-blue?style=for-the-badge">](https://github.com/slavUsr "I Wrote this GUI") [<img src="https://img.shields.io/badge/Built--On-Ubuntu-blue?style=for-the-badge&logo=ubuntu">](https://www.ubuntu.com "Built and Tested On Ubuntu")
-
+[<img src="https://img.shields.io/badge/LICENSE-Custom-blue?style=for-the-badge">](LICENSE)
+[<img src="https://img.shields.io/badge/Latest%20Version-1.0-orange?style=for-the-badge">](imghide.py)
+[<img src="https://img.shields.io/badge/Built On-Ubuntu-blue?style=for-the-badge&logo=ubuntu">](https://www.ubuntu.com "Built and Tested On Ubuntu")
+[<img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=for-the-badge&logo=python">](https://www.python.org/)
 
 ---
 
