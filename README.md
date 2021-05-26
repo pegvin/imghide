@@ -1,4 +1,4 @@
-[<img src="assets/header.png">](https://github.com/slavUsr/imghide "Hide text inside an Image")
+[<img src="assets/header.png">](https://github.com/Devlopr69/imghide "Hide text inside an Image")
 
 [IMGHide](imghide.py) - Hide your messages inside an Image!
 
@@ -31,13 +31,13 @@ python3 imghide.py
 
 ## Credits:
 * CLI Original Version By [TechRaj156](https://www.youtube.com/c/TechRaj156?sub_confirmation=1 "Subscribe Him MayN!!!")
-* GUI Versionn By [@slavUsr](https://github.com/slavUsr "haha it's Me!") 
+* GUI Versionn By [@slavUsr](https://github.com/Devlopr69 "haha it's Me!") 
 * Original Script Was Inspired from this [Medium post](https://medium.com/better-programming/image-steganography-using-python-2250896e48b9)
 * Watch [explanation video](https://youtu.be/_KX8ORUA_98)
 
 ---
 
-[<img src="https://img.shields.io/github/followers/slavUsr?label=GitHub&logo=github&style=for-the-badge">](https://github.com/slavUsr) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:slavUser@protonmail.com) <br />
+[<img src="https://img.shields.io/github/followers/slavUsr?label=GitHub&logo=github&style=for-the-badge">](https://github.com/Devlopr69) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:slavUser@protonmail.com) <br />
 
 [<img src="https://img.shields.io/badge/Visit-Website-0e93b0?style=for-the-badge">](https://slavUsr.github.io) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/usrSlav)
 
