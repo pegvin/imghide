@@ -368,7 +368,7 @@ c2.place(relx = 0.5, rely = 0.35, anchor = 'center')
 info_label = tk.Label(window, bg=secBgColr, fg='#1aff00',width=30, text='$ Everything Initialised', font=('calibre',9,'normal'))
 info_label.place(relx = 0, rely = 1, anchor ='sw')
 
-author_label = tk.Label(window, bg=mainBgColr, fg='#00c6ff', width=30, text='GUI by usrSlav ( GitHub )\nIMGHide by TechRaj ( YouTube )', font=('TkHeadingFont',9,'normal'))
+author_label = tk.Label(window, bg=mainBgColr, fg='#00c6ff', width=30, text='GUI by Devlopr69 ( GitHub )\nIMGHide by TechRaj ( YouTube )', font=('TkHeadingFont',9,'normal'))
 author_label.place(relx = 1, rely = 1, anchor ='se')
 
 window.protocol("WM_DELETE_WINDOW", confirmClose)
