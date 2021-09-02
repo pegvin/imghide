@@ -13,7 +13,7 @@
 ## Installation
 ```bash
 sudo apt-get install git python3 python3-pip
-git clone https://github.com/slavUsr/imghide.git
+git clone https://github.com/heyDevlopr/imghide.git
 cd imghide
 pip3 install -U -r requirements.txt
 ```
@@ -31,13 +31,12 @@ python3 imghide.py
 
 ## Credits:
 * CLI Original Version By [TechRaj156](https://www.youtube.com/c/TechRaj156?sub_confirmation=1 "Subscribe Him MayN!!!")
-* GUI Versionn By [@Devlopr69](https://github.com/Devlopr69 "haha it's Me!") 
-* Original Script Was Inspired from this [Medium post](https://medium.com/better-programming/image-steganography-using-python-2250896e48b9)
+* GUI Versionn By [@heyDevlopr](https://github.com/heyDevlopr "haha it's Me!") 
 * Watch [explanation video](https://youtu.be/_KX8ORUA_98)
 
 ---
 
-[<img src="https://img.shields.io/github/followers/Devlopr69?label=GitHub&logo=github&style=for-the-badge">](https://github.com/Devlopr69) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:helloadityam@gmail.com) <br />
+[<img src="https://img.shields.io/github/followers/Devlopr69?label=GitHub&logo=github&style=for-the-badge">](https://github.com/heyDevlopr) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:helloadityam@gmail.com) <br />
 
 [<img src="https://img.shields.io/badge/Visit-Website-0e93b0?style=for-the-badge">](https://www.devlopr.ml) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/Devlopr69)
 
