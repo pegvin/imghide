@@ -1,4 +1,4 @@
-[<img src="assets/header.png">](https://github.com/Devlopr69/imghide "Hide text inside an Image")
+[<img src="assets/header.png">](https://github.com/heyDevlopr/imghide "Hide text inside an Image")
 
 [IMGHide](imghide.py) - Hide your messages inside an Image!
 
