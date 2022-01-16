@@ -13,7 +13,7 @@
 ## Installation
 ```bash
 sudo apt-get install git python3 python3-pip
-git clone https://github.com/heyDevlopr/imghide.git
+git clone https://github.com/DEVLOPRR/imghide.git
 cd imghide
 pip3 install -U -r requirements.txt
 ```
@@ -31,7 +31,7 @@ python3 imghide.py
 
 ## Credits:
 * CLI Original Version By [TechRaj156](https://www.youtube.com/c/TechRaj156?sub_confirmation=1 "Subscribe Him MayN!!!")
-* GUI Versionn By [@heyDevlopr](https://github.com/heyDevlopr "haha it's Me!") 
+* GUI Versionn By [@DEVLOPRR](https://github.com/DEVLOPRR "haha it's Me!") 
 * Watch [explanation video](https://youtu.be/_KX8ORUA_98)
 
 ---
