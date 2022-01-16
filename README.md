@@ -36,9 +36,9 @@ python3 imghide.py
 
 ---
 
-[<img src="https://img.shields.io/github/followers/heyDevlopr?label=GitHub&logo=github&style=for-the-badge">](https://github.com/heyDevlopr) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Email-00a4e4?style=for-the-badge&logo=protonmail">](mailto:helloadityam@gmail.com) <br />
+[<img src="https://img.shields.io/github/followers/DEVLOPRR?label=GitHub&logo=github&style=for-the-badge">](https://github.com/DEVLOPRR) &nbsp;
 
-[<img src="https://img.shields.io/badge/Visit-Website-0e93b0?style=for-the-badge">](https://www.devlopr.ml) &nbsp; [<img src="https://img.shields.io/badge/Queries%20%3F-Telegram-0088cc?style=for-the-badge&logo=telegram">](https://t.me/Devlopr69)
+[<img src="https://img.shields.io/badge/Visit-Website-0e93b0?style=for-the-badge">](https://www.devlopr.ml)
 
 ---
 
